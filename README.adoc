@@ -1,0 +1,8 @@
+Samples using Groovy / Gradle / Grails presented on RSJUG meetup.
+
+* RSJUG: [ https://www.facebook.com/groups/rsjug[Facebook] | https://groups.google.com/forum/#!forum/rsjug[Google Groups]]
+* References
+** http://www.slideshare.net/paulk_asert/groovy-tutorial[Groovy]
+** https://gradle.org/introduction-to-gradle-training[Gradle]
+** http://www.slideshare.net/4np/groovy-grails-introductory-presentation[grails] / http://slides.com/adamatti/grails[Grails LT]
+* About the presenter: http://adamatti.github.io
